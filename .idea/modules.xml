@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/DemoUnitTests.iml" filepath="$PROJECT_DIR$/.idea/DemoUnitTests.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/JenkinsUnitTests.iml" filepath="$PROJECT_DIR$/.idea/JenkinsUnitTests.iml" />
+>>>>>>> e5349e9 (first commit)
     </modules>
   </component>
 </project>
